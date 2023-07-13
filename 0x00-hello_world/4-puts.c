@@ -1,9 +1,12 @@
 #include <stdio.h>
+
 /**
- * main - A program that print out a line
- *it will return 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
-{put("\"Programming is like building a multilingual puzzle");
+{
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
